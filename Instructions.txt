@@ -1,0 +1,4 @@
+1. Open this(final) folder in cmd
+2. run "flask run" in cmd; it will run app.py file
+NOTE: see the modules used in app.py, because you need all modules installed so that you don't get any errors
+3. open index.html in browser

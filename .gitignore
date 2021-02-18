@@ -1,0 +1,4 @@
+__pycache__/*
+.ipynb_checkpoints/*
+input_data/movie_dataset/*
+!input_data/movie_dataset/.gitkeep
